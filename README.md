@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/MatrixCalculator.git
 ## Использование
 Пример использования основных функций:
 
-`` Ruby 
+```shell 
 int[,] data1 = { { 1, 2 }, { 3, 4 } };
 int[,] data2 = { { 2, 0 }, { 1, 2 } };
 Matrix matrix1 = new Matrix(data1);
@@ -41,4 +41,4 @@ Matrix resultMultiplication = matrix1 * matrix2;
 Matrix resultTranspose = matrix1.Transpose();
 int minValue = matrix1.Min();
 string matrixAsString = matrix1.ToString();
-``
+```
