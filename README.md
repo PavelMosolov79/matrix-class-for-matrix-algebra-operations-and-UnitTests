@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий на свой локальный компьютер с помощью команды Git:
 
 ```shell
-git clone https://github.com/yourusername/MatrixCalculator.git
+git clone https://github.com/PavelMosolov79/matrix-class-for-matrix-algebra-operations-and-UnitTests
 ```
 
 2. Откройте проект в вашей среде разработки, поддерживающей C# (например, Visual Studio).
